@@ -1,2 +1,8 @@
 # Hello_World
-the First
+# the First
+
+#include <stadio.h>
+
+main(){
+  printf('Hello GitHub')
+}
